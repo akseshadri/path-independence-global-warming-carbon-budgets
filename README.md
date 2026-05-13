@@ -16,6 +16,7 @@ Paper 1 identifies sufficient conditions as a pair of timescale inequalities (ζ
 
 ```
 ├── README.md
+├── LICENSE
 ├── setup.m                                    # Run first: adds all paths to MATLAB
 ├── .gitignore
 ├── shared/                                    # Shared model functions (both papers)
@@ -105,7 +106,10 @@ If you use this code, please cite the relevant paper(s):
   doi     = {10.1007/s00382-021-05739-3}
 }
 ```
+## License
 
+   This project is licensed under the [MIT License](LICENSE). If you use this code, please cite the relevant paper(s).
+   
 ## Contact
 
 Ashwin K. Seshadri — [ashwins@iisc.ac.in](mailto:ashwins@iisc.ac.in)
