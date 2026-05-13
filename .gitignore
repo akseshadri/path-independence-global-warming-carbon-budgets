@@ -1,0 +1,17 @@
+# MATLAB
+*.m~
+*.mex*
+*.mlappinstall
+*.mlpkginstall
+slprj/
+sccprj/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+*.swp
+*.swo
+*~
